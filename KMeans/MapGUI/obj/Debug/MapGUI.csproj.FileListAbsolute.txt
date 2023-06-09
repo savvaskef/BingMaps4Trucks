@@ -1,0 +1,5 @@
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\MapGUI\bin\Debug\MapGUI.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\MapGUI\bin\Debug\MapGUI.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\MapGUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\MapGUI\obj\Debug\MapGUI.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\MapGUI\obj\Debug\MapGUI.pdb

@@ -1,0 +1,2 @@
+       var map5 = new GMap2(document.getElementById("map"));
+      

@@ -1,0 +1,5 @@
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\marginalfunction\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\marginalfunction\bin\Debug\marginalfunction.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\marginalfunction\bin\Debug\marginalfunction.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\marginalfunction\obj\x86\Debug\marginalfunction.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\marginalfunction\obj\x86\Debug\marginalfunction.pdb

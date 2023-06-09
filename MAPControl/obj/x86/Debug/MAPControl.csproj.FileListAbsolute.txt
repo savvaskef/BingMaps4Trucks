@@ -1,0 +1,81 @@
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\MAPControl\MAPControl\bin\Debug\MAPControl.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\MAPControl\MAPControl\bin\Debug\MAPControl.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\MAPControl\MAPControl\bin\Debug\GMap.NET.Core.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\MAPControl\MAPControl\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\MAPControl\MAPControl\bin\Debug\Mono.Data.SqliteClient.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\MAPControl\MAPControl\bin\Debug\System.Data.SQLite.DLL
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\MAPControl\MAPControl\bin\Debug\GMap.NET.Core.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\MAPControl\MAPControl\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\MAPControl\MAPControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\MAPControl\MAPControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\MAPControl\MAPControl\obj\x86\Debug\MAPControl.Form1.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\MAPControl\MAPControl\obj\x86\Debug\MAPControl.Properties.Resources.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\MAPControl\MAPControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\MAPControl\MAPControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\MAPControl\MAPControl\obj\x86\Debug\MAPControl.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\MAPControl\MAPControl\obj\x86\Debug\MAPControl.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\MAPControl\bin\Debug\MAPControl.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\MAPControl\bin\Debug\MAPControl.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\MAPControl\bin\Debug\GMap.NET.Core.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\MAPControl\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\MAPControl\bin\Debug\GMap.NET.Core.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\MAPControl\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\MAPControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\MAPControl\obj\x86\Debug\MAPControl.Form1.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\MAPControl\obj\x86\Debug\MAPControl.Properties.Resources.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\MAPControl\obj\x86\Debug\MAPControl.Resources.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\MAPControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\MAPControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\MAPControl\obj\x86\Debug\MAPControl.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\MAPControl\obj\x86\Debug\MAPControl.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\MAPControl\obj\x86\Debug\MAPControl.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\MAPControl\obj\x86\Debug\MAPControl.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\MAPControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\MAPControl\obj\x86\Debug\MAPControl.Form1.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\MAPControl\obj\x86\Debug\MAPControl.Properties.Resources.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\MAPControl\obj\x86\Debug\MAPControl.Resources.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\MAPControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\MAPControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\MAPControl\bin\Debug\MAPControl.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\MAPControl\bin\Debug\MAPControl.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\MAPControl\bin\Debug\GMap.NET.Core.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\MAPControl\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\MAPControl\bin\Debug\GMap.NET.Core.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\MAPControl\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\MAPControl\bin\Debug\MAPControl.exe.config
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\MAPControl.exe.config
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\MAPControl.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\MAPControl.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\GMap.NET.Core.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\Mono.Data.SqliteClient.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\System.Data.SQLite.DLL
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\GMap.NET.Core.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\System.Data.SQLite.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\MAPControl\obj\x86\Debug\MAPControl.Form1.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\MAPControl\obj\x86\Debug\MAPControl.Properties.Resources.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\MAPControl\obj\x86\Debug\MAPControl.Resources.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\MAPControl\obj\x86\Debug\MAPControl.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\MAPControl\obj\x86\Debug\MAPControl.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\MAPControl\obj\x86\Debug\MAPControl.csprojResolveAssemblyReference.cache
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\MAPControl\obj\x86\Debug\MAPControl.csproj.GenerateResource.Cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\MAPControl.exe.config
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\MAPControl.exe
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\MAPControl.pdb
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\GMap.NET.Core.dll
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\GMap.NET.WindowsForms.dll
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\Mono.Data.SqliteClient.dll
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\System.Data.SQLite.DLL
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\GMap.NET.Core.xml
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\GMap.NET.WindowsForms.xml
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\bin\Debug\System.Data.SQLite.xml
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\obj\x86\Debug\MAPControl.csproj.AssemblyReference.cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\obj\x86\Debug\MAPControl.Form1.resources
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\obj\x86\Debug\MAPControl.Properties.Resources.resources
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\obj\x86\Debug\MAPControl.Resources.resources
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\obj\x86\Debug\MAPControl.csproj.GenerateResource.cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\obj\x86\Debug\MAPControl.csproj.CoreCompileInputs.cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\obj\x86\Debug\MAPControl.csproj.CopyComplete
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\obj\x86\Debug\MAPControl.exe
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\MAPControl\obj\x86\Debug\MAPControl.pdb

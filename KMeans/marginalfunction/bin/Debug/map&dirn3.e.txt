@@ -1,0 +1,16 @@
+	
+        function init() { 
+        if (GBrowserIsCompatible()) {
+            map5.getPane(G_MAP_FLOAT_SHADOW_PANE).style.visibility = "hidden"; 
+            map5.setCenter(new GLatLng(40.5909262318841,22.5343763768116), 10)
+            map5.addControl(new GLargeMapControl());
+            map5.addControl(new GMapTypeControl());
+            var dirn = new GDirections();
+
+            GEvent.addListener(dirn, "load", function() {
+                // snap to last vertex in the polyline
+                geocoder = new GClientGeocoder();
+                var n = dirn.getPolyline().getVertexCount();
+                var p     = dirn.getPolyline().getVertex(0)  ;
+                var plast = dirn.getPolyline().getVertex(n-1);
+      

@@ -1,0 +1,4 @@
+   var point1 = new GLatLng(latitude, longtitude);
+                geocoder.getLocations(point1, retDir1)
+
+             

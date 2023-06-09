@@ -1,0 +1,29 @@
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\AsMuchAsNeeded\bin\Debug\AsMuchAsNeeded.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\AsMuchAsNeeded\bin\Debug\AsMuchAsNeeded.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\AsMuchAsNeeded\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\AsMuchAsNeeded\obj\x86\Debug\AsMuchAsNeeded.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\AsMuchAsNeeded\obj\x86\Debug\AsMuchAsNeeded.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\AsMuchAsNeeded\bin\Debug\GMap.NET.Core.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\AsMuchAsNeeded\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\AsMuchAsNeeded\bin\Debug\GMap.NET.Core.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\AsMuchAsNeeded\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\bin\Debug\AsMuchAsNeeded.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\bin\Debug\AsMuchAsNeeded.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\bin\Debug\GMap.NET.Core.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\bin\Debug\GMap.NET.Core.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\obj\x86\Debug\AsMuchAsNeeded.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\obj\x86\Debug\AsMuchAsNeeded.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\obj\x86\Debug\AsMuchAsNeeded.csprojResolveAssemblyReference.cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\bin\Debug\AsMuchAsNeeded.exe
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\bin\Debug\AsMuchAsNeeded.pdb
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\bin\Debug\GMap.NET.Core.dll
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\bin\Debug\GMap.NET.WindowsForms.dll
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\bin\Debug\GMap.NET.Core.xml
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\bin\Debug\GMap.NET.WindowsForms.xml
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\obj\x86\Debug\AsMuchAsNeeded.csproj.AssemblyReference.cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\obj\x86\Debug\AsMuchAsNeeded.csproj.CoreCompileInputs.cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\obj\x86\Debug\AsMuchAsNeeded.csproj.CopyComplete
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\obj\x86\Debug\AsMuchAsNeeded.exe
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\KMeans\AsMuchAsNeeded\obj\x86\Debug\AsMuchAsNeeded.pdb

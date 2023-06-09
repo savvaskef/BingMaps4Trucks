@@ -1,0 +1,42 @@
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\obj\x86\Debug\Truck_routes.Form1.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\obj\x86\Debug\Truck_routes.Properties.Resources.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\Truck routes.exe.config
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\Truck routes.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\Truck routes.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\AsMuchAsNeeded.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\MAPControl.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\output.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\GMap.NET.Core.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\AsMuchAsNeeded.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\MAPControl.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\output.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\GMap.NET.Core.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\obj\x86\Debug\Truck routes.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\obj\x86\Debug\Truck routes.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\obj\x86\Debug\Truck routes.csprojResolveAssemblyReference.cache
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\Truck routes\obj\x86\Debug\Truck routes.csproj.GenerateResource.Cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\Truck routes.exe.config
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\Truck routes.exe
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\Truck routes.pdb
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\AsMuchAsNeeded.exe
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\MAPControl.exe
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\output.exe
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\GMap.NET.WindowsForms.dll
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\GMap.NET.Core.dll
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\AsMuchAsNeeded.pdb
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\MAPControl.pdb
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\MAPControl.exe.config
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\output.pdb
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\output.exe.config
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\GMap.NET.WindowsForms.xml
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\bin\Debug\GMap.NET.Core.xml
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\obj\x86\Debug\Truck routes.csproj.AssemblyReference.cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\obj\x86\Debug\Truck_routes.Form1.resources
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\obj\x86\Debug\Truck_routes.Properties.Resources.resources
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\obj\x86\Debug\Truck routes.csproj.GenerateResource.cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\obj\x86\Debug\Truck routes.csproj.CoreCompileInputs.cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\obj\x86\Debug\Truck routes.csproj.CopyComplete
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\obj\x86\Debug\Truck routes.exe
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\Truck routes\obj\x86\Debug\Truck routes.pdb

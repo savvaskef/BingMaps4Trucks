@@ -1,0 +1,14 @@
+ function retDir1(myLL) {
+           var orig = myLL.name.split(",");
+            //alert(stpIdx+":"+myLL.name);
+           //var point1 = new GLatLng(myLL.Placemark[0].Point.coordinates[1], myLL.Placemark[0].Point.coordinates[0]);
+           gicon=getIcon()
+           gicon.image = 'imagefile';
+           markerOptions = { icon: gicon };
+          var point1 = new GLatLng(orig[0], orig[1]);
+           var marker1 = new GMarker(point1, markerOptions);
+           GEvent.addListener(marker1, "click", function() {
+           marker1.openInfoWindowHtml('<b>' + 'stopdesc' + ':</b>' + myLL.name + '<br/><b>Address:</b>' + myLL.Placemark[0].address + '<br/>');
+           });
+           map5.addOverlay(marker1);
+        }

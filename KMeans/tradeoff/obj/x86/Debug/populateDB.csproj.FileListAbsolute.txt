@@ -1,0 +1,5 @@
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\tradeoff\bin\Debug\tradeoff.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\tradeoff\bin\Debug\tradeoff.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\tradeoff\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\tradeoff\obj\x86\Debug\tradeoff.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\tradeoff\obj\x86\Debug\tradeoff.pdb

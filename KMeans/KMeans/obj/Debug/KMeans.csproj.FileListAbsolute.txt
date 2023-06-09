@@ -1,0 +1,16 @@
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanypoints\KMeans\KMeans\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanypoints\KMeans\KMeans\obj\Debug\KMeans.Properties.Resources.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanypoints\KMeans\KMeans\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanypoints\KMeans\KMeans\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanypoints\KMeans\KMeans\bin\Debug\KMeans.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanypoints\KMeans\KMeans\bin\Debug\KMeans.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanypoints\KMeans\KMeans\obj\Debug\KMeans.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanypoints\KMeans\KMeans\obj\Debug\KMeans.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\KMeans\bin\Debug\KMeans.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\KMeans\bin\Debug\KMeans.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\KMeans\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\KMeans\obj\Debug\KMeans.Properties.Resources.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\KMeans\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\KMeans\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\KMeans\obj\Debug\KMeans.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\CLUSTERmanyrequests\CLUSTERmanypoints\KMeans\KMeans\obj\Debug\KMeans.pdb

@@ -1,0 +1,47 @@
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\output\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\output\obj\x86\Debug\output.Form1.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\output\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\output\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\output\bin\Debug\output.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\output\bin\Debug\output.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\output\bin\Debug\GMap.NET.Core.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\output\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\output\bin\Debug\GMap.NET.Core.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\output\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\output\obj\x86\Debug\output.Properties.Resources.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\output\obj\x86\Debug\output.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapbkup\MAPControl\output\obj\x86\Debug\output.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\output\obj\x86\Debug\output.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\output\obj\x86\Debug\output.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\output\bin\Debug\output.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\output\bin\Debug\output.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\output\bin\Debug\GMap.NET.Core.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\output\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\output\bin\Debug\GMap.NET.Core.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\output\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\output\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\output\obj\x86\Debug\output.Form1.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\output\obj\x86\Debug\output.Properties.Resources.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\output\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\output\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\mapGUI\MAPControl\output\bin\Debug\output.exe.config
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\output\bin\Debug\output.exe.config
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\output\bin\Debug\output.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\output\bin\Debug\output.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\output\obj\x86\Debug\output.Form1.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\output\obj\x86\Debug\output.Properties.Resources.resources
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\output\obj\x86\Debug\output.exe
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\output\obj\x86\Debug\output.pdb
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\output\obj\x86\Debug\output.csprojResolveAssemblyReference.cache
+C:\Users\savvas.MIK3\Documents\Visual Studio 2010\Projects\Truck routes\output\obj\x86\Debug\output.csproj.GenerateResource.Cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\output\bin\Debug\output.exe.config
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\output\bin\Debug\output.exe
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\output\bin\Debug\output.pdb
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\output\obj\x86\Debug\output.csproj.AssemblyReference.cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\output\obj\x86\Debug\output.Form1.resources
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\output\obj\x86\Debug\output.Properties.Resources.resources
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\output\obj\x86\Debug\output.csproj.GenerateResource.cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\output\obj\x86\Debug\output.csproj.CoreCompileInputs.cache
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\output\obj\x86\Debug\output.csproj.CopyComplete
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\output\obj\x86\Debug\output.exe
+D:\_BACKUP_\doxfromdell\Visual Studio 2010\Projects\Truck routes\output\obj\x86\Debug\output.pdb

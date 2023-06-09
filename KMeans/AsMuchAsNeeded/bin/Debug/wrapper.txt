@@ -1,0 +1,26 @@
+     public static bool WriteLnInSw(StreamWriter sw, string ln)
+        {
+            // Create an instance of StreamWriter to write text to a file.
+            // The using statement also closes the StreamWriter.
+            try
+            {
+                sw.WriteLine(ln);
+                return true;
+            }
+            catch (System.Exception sex)
+            { return false; }
+
+        }
+        public static bool ReadLnInSr(StreamReader sr, ref string ln)
+        {
+            // Create an instance of StreamWriter to write text to a file.
+            // The using statement also closes the StreamWriter.
+            try
+            {
+                ln = sr.ReadLine();
+                return true;
+            }
+            catch (System.Exception sex)
+            { return false; }
+
+        }

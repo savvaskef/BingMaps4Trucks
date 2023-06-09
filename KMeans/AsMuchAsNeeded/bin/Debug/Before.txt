@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <title>Route & Course</title>
+<script type="text/javascript"  src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAPDUET0Qt7p2VcSk6JNU1sBSM5jMcmVqUpI7aqV44cW1cEECiThQYkcZUPRJn9vy_TWxWvuLoOfSFBw" ></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<link type="text/css" href ="http://code.google.com/apis/maps/documentation/javascript/examples/default.css" rel="stylesheet"  />
+
+  </head>
+  <body onload="init()">
+
+   
+    <div id="map" style="width: 800px; height: 600px"></div>
+    <div id="distance"></div>
+     
+    <noscript><b>JavaScript must be enabled in order for you to use Google Maps.</b> 
+      However, it seems JavaScript is either disabled or not supported by your browser. 
+      To view Google Maps, enable JavaScript by changing your browser options, and then 
+      try again.
+    </noscript>
+
+    <script type="text/javascript">
+        //<![CDATA[
+        // == when the load event completes, plot the point on the street ==
+        function setMarkers(map2, locations, imgString) {
+
+            var blueIcon = new GIcon(G_DEFAULT_ICON);
+            blueIcon.image = imgString ;
+            blueIcon.iconSize = new GSize(50, 50);
+            blueIcon.iconAnchor = new GPoint(25, 25);
+            markerOptions = { icon: blueIcon };
+
+            var point1 = new GLatLng(locations[1] , locations[2]); var marker1 = new GMarker(point1, markerOptions); GEvent.addListener(marker1, "click", function() { marker1.openInfoWindowHtml(locations[0] ); }); map2.addOverlay(marker1);
+        
+          
+            
+       
+       
+        }
+        function init() { 
+        if (GBrowserIsCompatible()) {
+
+            var map = new GMap2(document.getElementById("map"));
+            map.setCenter(new GLatLng(40.6485, 22.9674), 10)
+            map.addControl(new GLargeMapControl());
+            map.addControl(new GMapTypeControl());
+            var dirn = new GDirections();
+          
+            GEvent.addListener(dirn, "load", function() {
+                // snap to last vertex in the polyline
+                var n     = dirn.getPolyline().getVertexCount();
+                
+                
+                var p     = dirn.getPolyline().getVertex(0)  ;setMarkers(map, ['Start', p.y,p.x, 1], 'start.jpg');
+                var plast = dirn.getPolyline().getVertex(n-1);setMarkers(map, ['fin', plast.y, plast.x, 1], 'fin.jpg')
+      
+                //var marker2 = new GMarker(plast);
+               // map.addOverlay(marker);
+               // map.addOverlay(marker2);
+               // gmarkers.push(marker2);
+                
+                {
+                    map.addOverlay(dirn.getPolyline());
+                    gpolys.push(dirn.getPolyline());
+                    //dist = dirn.getPolyline().Distance();
+                   // document.getElementById("distance").innerHTML = "Path length: " + (dist / 1000).toFixed(2) + " km. " + (dist / 1609.344).toFixed(2) + " miles.";
+                }
+ 
+            });
+            var firstpoint = true;
+            var gmarkers = [];
+            var gpolys = [];
+            var dist = 0;
+

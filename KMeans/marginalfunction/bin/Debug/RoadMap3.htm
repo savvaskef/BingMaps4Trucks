@@ -1,0 +1,164 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <title>Δρομολόγιο φορτηγού</title>
+<script type="text/javascript"  src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAPDUET0Qt7p2VcSk6JNU1sBSM5jMcmVqUpI7aqV44cW1cEECiThQYkcZUPRJn9vy_TWxWvuLoOfSFBw" ></script>
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<link type="text/css" href ="http://code.google.com/apis/maps/documentation/javascript/examples/default.css" rel="stylesheet"  />
+
+  </head>
+  <body onload="init()">
+
+   
+    <div id="map" style="width: 800px; height: 600px"></div>
+    <div id="distance"></div>
+     
+    <noscript><b>JavaScript must be enabled in order for you to use Google Maps.</b> 
+      However, it seems JavaScript is either disabled or not supported by your browser. 
+      To view Google Maps, enable JavaScript by changing your browser options, and then 
+      try again.
+    </noscript>
+
+    <script type="text/javascript">
+        //<![CDATA[
+        // == when the load event completes, plot the point on the street ==
+        function getIcon() {
+            var blueIcon = new GIcon(G_DEFAULT_ICON);
+            blueIcon.shadow = 'shadow1.png'
+            blueIcon.shadowSize = new GSize(1, 1);
+            blueIcon.iconSize = new GSize(50, 50);
+            blueIcon.iconAnchor = new GPoint(25, 25);
+            return blueIcon
+        } 
+
+ function retDir0(myLL) {
+           var orig = myLL.name.split(",");
+            //alert(stpIdx+":"+myLL.name);
+           //var point1 = new GLatLng(myLL.Placemark[0].Point.coordinates[1], myLL.Placemark[0].Point.coordinates[0]);
+           gicon=getIcon()
+           gicon.image = 'start.jpg';
+           markerOptions = { icon: gicon };
+          var point1 = new GLatLng(orig[0], orig[1]);
+           var marker1 = new GMarker(point1, markerOptions);
+           GEvent.addListener(marker1, "click", function() {
+           marker1.openInfoWindowHtml('<b>' + 'Αφετηρία' + ':</b>' + myLL.name + '<br/><b>Διεύθυνση:</b>' + myLL.Placemark[0].address + '<br/>');
+           });
+           map5.addOverlay(marker1);
+        }
+ function retDir1(myLL) {
+           var orig = myLL.name.split(",");
+            //alert(stpIdx+":"+myLL.name);
+           //var point1 = new GLatLng(myLL.Placemark[0].Point.coordinates[1], myLL.Placemark[0].Point.coordinates[0]);
+           gicon=getIcon()
+           gicon.image = 'cow.png';
+           markerOptions = { icon: gicon };
+          var point1 = new GLatLng(orig[0], orig[1]);
+           var marker1 = new GMarker(point1, markerOptions);
+           GEvent.addListener(marker1, "click", function() {
+           marker1.openInfoWindowHtml('<b>' + 'στάση 1' + ':</b>' + myLL.name + '<br/><b>Διεύθυνση:</b>' + myLL.Placemark[0].address + '<br/>');
+           });
+           map5.addOverlay(marker1);
+        }
+ function retDir2(myLL) {
+           var orig = myLL.name.split(",");
+            //alert(stpIdx+":"+myLL.name);
+           //var point1 = new GLatLng(myLL.Placemark[0].Point.coordinates[1], myLL.Placemark[0].Point.coordinates[0]);
+           gicon=getIcon()
+           gicon.image = 'cow.png';
+           markerOptions = { icon: gicon };
+          var point1 = new GLatLng(orig[0], orig[1]);
+           var marker1 = new GMarker(point1, markerOptions);
+           GEvent.addListener(marker1, "click", function() {
+           marker1.openInfoWindowHtml('<b>' + 'στάση 2' + ':</b>' + myLL.name + '<br/><b>Διεύθυνση:</b>' + myLL.Placemark[0].address + '<br/>');
+           });
+           map5.addOverlay(marker1);
+        }
+ function retDir3(myLL) {
+           var orig = myLL.name.split(",");
+            //alert(stpIdx+":"+myLL.name);
+           //var point1 = new GLatLng(myLL.Placemark[0].Point.coordinates[1], myLL.Placemark[0].Point.coordinates[0]);
+           gicon=getIcon()
+           gicon.image = 'fin.jpg';
+           markerOptions = { icon: gicon };
+          var point1 = new GLatLng(orig[0], orig[1]);
+           var marker1 = new GMarker(point1, markerOptions);
+           GEvent.addListener(marker1, "click", function() {
+           marker1.openInfoWindowHtml('<b>' + 'τερμα' + ':</b>' + myLL.name + '<br/><b>Διεύθυνση:</b>' + myLL.Placemark[0].address + '<br/>');
+           });
+           map5.addOverlay(marker1);
+        }
+       var map5 = new GMap2(document.getElementById("map"));
+      
+
+points=["40.9204521179199,22.6406497955322","40.9978828430176,22.5708980560303","40.9937629699707,22.8762912750244","40.1201934814453,21.6400547027588"];
+  var flightPlanCoordinates = [new GLatLng( 40.9204521179199,22.6406497955322),new GLatLng( 40.9978828430176,22.5708980560303),new GLatLng( 40.9937629699707,22.8762912750244),new GLatLng( 40.1201934814453,21.6400547027588)];
+	
+        function init() { 
+        if (GBrowserIsCompatible()) {
+            map5.getPane(G_MAP_FLOAT_SHADOW_PANE).style.visibility = "hidden"; 
+            map5.setCenter(new GLatLng(40.9958229064941,22.7235946655273), 12);
+            map5.addControl(new GLargeMapControl());
+            map5.addControl(new GMapTypeControl());
+            var dirn = new GDirections();
+
+            GEvent.addListener(dirn, "load", function() {
+                // snap to last vertex in the polyline
+                geocoder = new GClientGeocoder();
+                var n = dirn.getPolyline().getVertexCount();
+                var p     = dirn.getPolyline().getVertex(0)  ;
+                var plast = dirn.getPolyline().getVertex(n-1);
+      
+
+   var point1 = new GLatLng(40.9204521179199, 22.6406497955322);
+                geocoder.getLocations(point1, retDir0)
+
+             
+   var point1 = new GLatLng(40.9978828430176, 22.5708980560303);
+                geocoder.getLocations(point1, retDir1)
+
+             
+   var point1 = new GLatLng(40.9937629699707, 22.8762912750244);
+                geocoder.getLocations(point1, retDir2)
+
+             
+   var point1 = new GLatLng(40.1201934814453, 21.6400547027588);
+                geocoder.getLocations(point1, retDir3)
+
+             
+//roadApproximation 
+                    gpolys.push(dirn.getPolyline());
+
+            });
+            var firstpoint = true;
+            var gmarkers = [];
+            var gpolys = [];
+            var dist = 0;
+
+
+ dirn.loadFromWaypoints(points, { getPolyline: true });
+ 
+ map5.addOverlay(new GPolyline(flightPlanCoordinates , "#ff0000", 5, 0.7));
+         
+
+            GEvent.addListener(dirn, "error", function() {
+                GLog.write("Failed: " + dirn.getStatus().code);
+            });
+
+        }
+        else {
+            alert("Sorry, the Google Maps API is not compatible with this browser");
+        }
+
+        // This Javascript is based on code provided by the
+        // Community Church Javascript Team
+        // http://www.bisphamchurch.org.uk/   
+        // http://econym.org.uk/gmap/
+    }
+        //]]>
+    </script>
+  </body>
+
+</html>
+
